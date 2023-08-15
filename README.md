@@ -24,4 +24,4 @@
 ![GitHub metrics](https://metrics.lecoq.io/JLegacy-AI)  
 ![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=JLegacy-AI) 
 ![GitHub Activity Stats]( https://activity-graph.herokuapp.com/graph?username=JLegacy-AI)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JLegacy-AI&show_icons=true&theme=dark)  
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JLegacy-AI)](https://github.com/JLegacy-AI/github-readme-stats)
