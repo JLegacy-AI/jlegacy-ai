@@ -81,11 +81,24 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jlegacy-ai&theme=slateorange&hide_border=true&date_format=j%20M%5B%20Y%5D&background=042B53F9&ring=EBEBEB&border=EBEBEB)](https://git.io/streak-stats)
----
+</br>
 
-![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=JLegacy-AI)  
----
+<div align="center">
+  <img src="https://metrics.lecoq.io/JLegacy-AI"/>
+</div>
 
-![GitHub metrics](https://metrics.lecoq.io/JLegacy-AI)  
----
+</br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jlegacy-ai&theme=slateorange&hide_border=true&date_format=j%20M%5B%20Y%5D&background=042B53F9&ring=EBEBEB&border=EBEBEB"/>
+</div>
+
+</br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JLegacy-AI"/>
+</div>
+
+
+
+
