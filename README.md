@@ -83,19 +83,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 </br>
 
-<div align="center">
+<div>
   <img src="https://metrics.lecoq.io/JLegacy-AI"/>
 </div>
 
 </br>
 
-<div align="center">
+<div>
   <img src="https://streak-stats.demolab.com?user=jlegacy-ai&theme=slateorange&hide_border=true&date_format=j%20M%5B%20Y%5D&background=042B53F9&ring=EBEBEB&border=EBEBEB"/>
 </div>
 
 </br>
 
-<div align="center">
+<div>
   <img src="https://github-profile-trophy.vercel.app/?username=JLegacy-AI"/>
 </div>
 
