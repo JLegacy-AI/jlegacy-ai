@@ -5,5 +5,5 @@
 ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=JLegacy-AI)
 ![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=JLegacy-AI)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JLegacy-AI&show_icons=true&theme=dark)  
-![GitHub metrics](https://metrics.lecoq.io/fahad-qureshi786)  
+![GitHub metrics](https://metrics.lecoq.io/JLegacy-AI)  
 ![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=JLegacy-AI) 
