@@ -32,7 +32,7 @@
 
 ### :woman_technologist: About Me. :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Computer Scientists and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems and engage in coding.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/jamal-muhammad-405325235) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](jamal.webdev.ai@gmail.com) 
