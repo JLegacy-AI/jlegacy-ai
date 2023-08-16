@@ -154,11 +154,11 @@
       - Algorithmic Paradigms (Divide and Conquer, Dynamic Programming, Greedy, etc.)
 
     Languages
-      - Java <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" title="Java" alt="Java"/>&nbsp;
-      - Python <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" title="Python" alt="Python" />&nbsp;
-      - CPP <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" title="CPlusPlus" alt="CPlusPlus"/>&nbsp;
-      - C <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" title="C" alt="C"/>&nbsp;
-      - Javascript <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript" />&nbsp;
+      - C
+      - CPP 
+      - Java
+      - Python
+      - Javascript
   
 
 </hr>
