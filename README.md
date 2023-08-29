@@ -56,11 +56,10 @@
           - CSS3
       Front End:
           - ReactJS
-          - NextJS
+          - NextJS (Learning)
       Back End:
           - NodeJS
           - ExpressJS
-          - Spring Boot
       Databases:
           - MongoDB
           - Firebase
@@ -71,7 +70,7 @@
           - Vanilla CSS
           - Tailwindcss
           - Bootstrap 
-          - SASS
+
 
 #### 🤖 AI Technologies:
 
